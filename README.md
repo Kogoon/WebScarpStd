@@ -1,8 +1,11 @@
 # WebScarpStd
 Beginning, for study
-
+# 2020.01.30
+--------------------------------------------------------------
 out of the blue, I'm not goot at memorize. 
 so..
+
+---------------------------------------------------------------
 
 git config --global user.name "name"
 git config --global user.email "git e-mail"
@@ -13,6 +16,7 @@ git add . // all
 //git add "file name.extention"
 
 git commit -m "description" //snapshot
+//without commit nothing change. (can't use push)
 
 git remote add origin https://github.com/username/project_name.git // connect local to repository
 
@@ -42,7 +46,6 @@ git branch
 
 ---------------------------------------------------------------
 --------------------------------------------------------------
--------------------------------------------------------------
 
 Study Web Scraping with Python
 
