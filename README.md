@@ -48,7 +48,8 @@ git branch
 
 Study Web Scraping with Python
 
-Link: [WebScraping](http://pythonstudy.xyz/python/article/403-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Web-Scraping)   
+Link: [Nomadcoder](academy.nomadcoders.co/)   
+Link: [WebCrawling](wikidocs.net/35928)
 
 * * *
 
