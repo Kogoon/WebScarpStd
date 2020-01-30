@@ -41,7 +41,9 @@ without option, can see the list of branch
 git branch
 "branch name1"
 "branch name2"
-* master // "*" means current branch
+"*" master // "*" means current branch
+
+#bold
 
 
 ---------------------------------------------------------------
