@@ -13,6 +13,8 @@ data1 = soup.find('div', {'class':'detail_box'})
 data2 = data1.findAll('dd')
 #pprint(data2)
 
-find_dust = data2[0].find('span',{'class':'num'}).text
-print(find_dust)
+fine_dust = data2[0].find('span',{'class':'num'}).text
+print(fine_dust)
 
+ultra_fine_dust = data2[1].find('span',{'class':'num'}).text
+print(ultra_fine_dust)
