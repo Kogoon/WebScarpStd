@@ -3,7 +3,7 @@
 Created on Mon Aug 17 22:30:49 2020
 
 @author: Kogoon
-"""
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -17,4 +17,10 @@ comment_list = soup.select('#content-text')
 print(comment_list)
 
 #fail
+"""
+from selenium import webdriver as wd
+driver = wd.Chrome(executable_path="chromedriver.exe")
+url = "https://www.naver.com"
+driver.get(url)
 
+# install driver necessary
